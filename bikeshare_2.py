@@ -70,13 +70,13 @@ def station_stats(df):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
-    # display most commonly used start station
+    # most commonly used start station
 
 
-    # display most commonly used end station
+    # most commonly used end station
 
 
-    # display most frequent combination of start station and end station trip
+    # most frequent combination of start station and end station trip
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
